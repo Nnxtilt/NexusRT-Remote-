@@ -37,6 +37,13 @@
  24. Flashlight
  25. Screenshot
  26. Applications
+ 27. Logs.
+ 28. Возможность удалять пользователей.
+ 29. Функция DOM control (Accessibility Node Tree), которая позволяет вам управлять экраном смартфона в реальном времени без трансляции экрана. — эту функцию обычно используют ИИ-агенты для управления смартфоном.
+ 30. Lock phone
+ 31. File Manager
+ 32. Sound Mode
+ 33. Возможность добавить ещё один secondary Bot Token (Optional)
 
 ПОДДЕРЖКА ANDROID:
 Работает стабильно на Android 14 и 15.
